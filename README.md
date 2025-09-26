@@ -17,6 +17,12 @@
   <a href="https://medium.com/@riyagupta3825" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
+  <!-- <div align="center"> -->
+  <a href="https://drive.google.com/file/d/1OmcJvcmoPTuLbp7HrQQj571CSpMWXcfC/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=googledrive&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="resume logo" />
+  </a>
+<!-- </div> -->
+
 </div>
 
 ###
