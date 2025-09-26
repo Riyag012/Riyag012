@@ -21,6 +21,12 @@
   <a href="https://drive.google.com/file/d/1OmcJvcmoPTuLbp7HrQQj571CSpMWXcfC/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=googledrive&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="resume logo" />
   </a>
+  <!-- <div align="center"> -->
+  <a href="https://leetcode.com/rg8/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
+  </a>
+<!-- </div> -->
+
 <!-- </div> -->
 
 </div>
