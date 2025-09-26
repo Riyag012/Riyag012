@@ -47,7 +47,7 @@
 
 ###
 
-<p align="left">I'm a Computer Science undergraduate at JECRC Foundation, graduating in 2027 , with a passion for building intelligent solutions in Machine Learning, Deep Learning, and Large Language Models.<br><br>- 🔭 I’m working as a Project Intern at HPE<br>- 📚 I'm currently learning Js, React, AI/ML frameworks and libraries</p>
+<p align="left">I'm a Computer Science undergraduate at JECRC Foundation, graduating in 2027 , with a passion for building intelligent solutions in Machine Learning, Deep Learning, and Large Language Models.<br><br>- 🔭 I’m working as a CPP-2 Intern at HPE<br>- 📚 I'm currently learning Js, React, AI/ML frameworks and libraries</p>
 
 ###
 
