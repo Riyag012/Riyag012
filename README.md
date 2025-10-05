@@ -3,7 +3,7 @@
 </div>
 
 ###
-
+<!--
 <div align="center">
   <a href="https://www.linkedin.com/in/riya-gupta-316379285/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -17,19 +17,14 @@
   <a href="https://medium.com/@riyagupta3825" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
-  <!-- <div align="center"> -->
   <a href="https://drive.google.com/file/d/1FdcWueMctnEGgHuxpV5aCA2NXs41ayQI/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=googledrive&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="resume logo" />
   </a>
-  <!-- <div align="center"> -->
   <a href="https://leetcode.com/rg8/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
   </a>
-<!-- </div> -->
-
-<!-- </div> -->
-
 </div>
+-->
 
 ###
 
@@ -47,7 +42,7 @@
 
 ###
 
-<p align="left">I'm a Computer Science undergraduate at JECRC Foundation, graduating in 2027 , with a passion for building intelligent solutions in Machine Learning, Deep Learning, and Large Language Models.<br><br>- 🔭 I’m working as a CPP-2 Intern at HPE<br>- 📚 I'm currently learning Js, React, AI/ML frameworks and libraries</p>
+<p align="left">I'm a Computer Science undergraduate at JECRC Foundation, graduating in 2027 , with a passion for building intelligent solutions in Machine Learning, Deep Learning, and Large Language Models.<br><br>- 🔭 I’m working as a CPP-2 Intern at HPE<br>- 📚 I'm currently learning Js, React, AI/ML frameworks and their libraries</p>
 
 ###
 
